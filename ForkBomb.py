@@ -1,6 +1,6 @@
 import os 
 
-
+url_name = input("enter your url")
 while True:
-    os.startfile("C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
+    os.startfile(url_name)
 
